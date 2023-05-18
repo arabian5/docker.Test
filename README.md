@@ -1,5 +1,5 @@
 # docker.Test
-git init: 현재 디렉토리를 Git 저장소로 초기화합니다.
+git init: 현재 디렉토리를 Git 저장소로 초기화합니다.<br>
 git add <파일 이름>: 지정된 파일을 스테이지 영역에 추가합니다.
 git commit -m "커밋 메시지": 스테이지 영역에 있는 파일을 커밋합니다.
 git log: Git 저장소의 커밋 히스토리를 표시합니다.
