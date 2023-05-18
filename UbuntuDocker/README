@@ -1,0 +1,11 @@
+# Docker build
+```
+git clone https://github.com/arabian5/docker.Test
+cd dockerTest/UbuntuDocker
+docker build --rm -t kyungdo/ut:2 .
+docker images
+```
+
+# Docker run 
+```
+docker run -it --name ut -v ~/df:/df --rm kyungdo/ut:2
